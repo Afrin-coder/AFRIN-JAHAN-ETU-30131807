@@ -1,14 +1,3 @@
-<div style="background-image: url('![developers-gif-showcase](https://github.com/user-attachments/assets/a000ec89-42ff-4dce-a38d-63433c4b4781)
-'); 
-            background-size: cover; 
-            height: 100vh; 
-            display: flex; 
-            justify-content: center; 
-            align-items: center; 
-            color: white; 
-            font-family: Arial, sans-serif; 
-            text-align: center;">
-
 <h1 align="center">Hi 👋, I'm Afrin Jahan Etu</h1> 
 <h3 align="center">Passionate about Data Analysis, SQL, ERD, Programming, Information Assurance, and Security.</h3>
 
@@ -41,12 +30,12 @@ Hi! I'm Afrin Jahan Etu, a 20-year-old Computer Science student at the Universit
 
 ---
 
-## Education:
-- **University of South Wales (United Kingdom)** – BSc (Hons) Computer Science – *2024–2027*
-- **Gazipur Cantonment College (Bangladesh)** – Higher Secondary School – *2019–2022*
-- **Kazi Razia Sultana Girls' High School (Bangladesh)** – Secondary School – *2017–2019*
-- **Milestone School And College (Bangladesh)** - Junior School - *2016*
-- **Chaita Adarsha Sarkari Prathomik Biddalay (Bangladesh)** - Primary School - *2013*
+## 📚 Education:
+- 👩🏻‍🎓 **University of South Wales (United Kingdom)** – BSc (Hons) Computer Science – *2024–2027*
+- 👩🏻‍🎓 **Gazipur Cantonment College (Bangladesh)** – Higher Secondary School – *2019–2022*
+- 👩🏻‍🎓 **Kazi Razia Sultana Girls' High School (Bangladesh)** – Secondary School – *2017–2019*
+- 👩🏻‍🎓 **Milestone School And College (Bangladesh)** - Junior School - *2016*
+- 👩🏻‍🎓 **Chaita Adarsha Sarkari Prathomik Biddalay (Bangladesh)** - Primary School - *2013*
   
 ---
 
