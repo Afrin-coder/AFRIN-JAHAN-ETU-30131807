@@ -42,7 +42,7 @@ Hi! I'm Afrin Jahan Etu, a 20-year-old Computer Science student at the Universit
   
 ---
 
-## Skills:
+## 🎩 Skills:
 - Data Analysis
 - SQL and Database Management
 - Entity-Relationship Diagrams (ERDs)
@@ -59,7 +59,7 @@ Hi! I'm Afrin Jahan Etu, a 20-year-old Computer Science student at the Universit
 
 ---
 
-## Extra Courses I Took:
+## 📖 Extra Courses I Took:
 
 -**Saifurs (Bangladesh)** - Computer Basic Course - *Dec 2018-Jan 2017* 
 -**Mentors (Bangladesh)** - Foundation Grammar and Writing - *Jul 2022-Aug 2022* 
@@ -67,8 +67,13 @@ Hi! I'm Afrin Jahan Etu, a 20-year-old Computer Science student at the Universit
 
 ---
 
-## Career Experience:
+## 📝 Career Experience:
 
+### Sainsbury's (UK) -  Customer Service - *2024-working now*
+- Self-service tills, kiosk.
+- Helping customers pick up click and collect parcels.
+- The friendly professional face on our checkouts
+  
 ### Self Employed (Bangladesh) – Home Tutor – *2022–2023*
 - Work with students to improve their skills in certain subjects.
 - Prepare lessons, assign and correct homework.
@@ -88,7 +93,7 @@ Hi! I'm Afrin Jahan Etu, a 20-year-old Computer Science student at the Universit
 
 ---
 
-## Languages I can speak:
+## 🔠 Languages I can speak:
 - Bengali (Native Speaker)
 - Hindi (Native Speaker)
 - Urdu (Proficient)
@@ -96,19 +101,18 @@ Hi! I'm Afrin Jahan Etu, a 20-year-old Computer Science student at the Universit
 
 ---
 
-## Leisure Interests:
+## 🏸 Leisure Interests:
 - Cooking and hosting gatherings with family and friends.
 - Sketching and drawing for improving hand-eye coordination and artistic skills.
  
 ---
 
-## Future Plan:
+## 🔮 Future Plan:
 -My objective as an undergraduate data analyst is to develop into a proficient data analyst by becoming proficient with technologies such as Tableau, SQL, and Python and using my analytical and problem-solving skills to find useful insights. By addressing real-world problems, I hope to have a rewarding career in data analytics and support organisations' data-driven decision-making.
 
 ---
-## Achievements and Certifications:
 
-## Hobbies:
+## 🧩 Hobbies:
 - Gardening
 - Painting
 - Sketching
