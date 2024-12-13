@@ -1,7 +1,7 @@
 <header style ="width : 100%; height: 10px;">
   <img src="etu.gif" style ="width: 100%; height: 20%/>
-</header>header>
-<h1 align="center">Hi 👋, I'm Afrin Jahan Etu</h1> 
+</header>
+<h1 align="center">Hi 👋, I'm Afrin Jahan Etu. </h1> 
 <h3 align="center">Passionate about Data Analysis, SQL, ERD, Programming, Information Assurance, and Security.</h3>
 
 <p align="left"> 
